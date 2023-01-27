@@ -1,0 +1,21 @@
+#nav-menu{
+
+    display: flex;
+    justify-content: right;
+    background-color: black;
+    color: white;
+}
+#nav-menu a{
+    margin:20px
+}
+@media all and (max-width: 1100px) and (min-width:300px) { 
+    /* Medium Screen Styles  */
+    #nav-menu{
+        justify-content: space-around;
+        padding:10px 0;
+    }
+    #nav-menu{
+        margin:0px;
+        font-size: 10px;
+    }
+}
