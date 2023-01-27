@@ -44,7 +44,10 @@ function Skill(){
                 <h1 class="skills-card-name">postman</h1>
                 </div>
 
-             
+             <div>
+             <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" class="skills-card-img"/>
+             <h1 class="skills-card-name">github</h1>
+             </div>
           
              </div>
            
