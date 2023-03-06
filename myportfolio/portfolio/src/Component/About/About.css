@@ -1,11 +1,11 @@
 #inner_about{
      width: 70%;
     height: 450px;
-    background-color: rgba(0, 128, 0, 0.437);
+  
     margin:5% auto;
 }
 #inner_about:hover{
-    background-color: rgba(0, 128, 0, 0.656);
+   
 }
 #inner_about p{
    color:white ;
